@@ -1,0 +1,9 @@
+# Archivos de sistema de macOS
+.DS_Store
+.AppleDouble
+.ls-cache
+
+# Archivos temporales o de entorno
+.env
+*.tmp
+*.log
